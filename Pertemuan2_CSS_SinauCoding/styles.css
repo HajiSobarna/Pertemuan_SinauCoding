@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@300&display=swap');
+img{
+    height: 200px;
+    width: 250px;
+    
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.bgsec{
+    background-repeat: repeat-y;
+    background-position: left;
+    background-size: 250px;
+}
